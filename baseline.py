@@ -1,3 +1,5 @@
+# 苏剑林. (Dec. 17, 2021). 《Seq2Seq+前缀树：检索任务新范式（以KgCLUE为例） 》[Blog post]. Retrieved from https://kexue.fm/archives/8802
+
 #! -*- coding: utf-8 -*-
 # KgCLUE baseline
 # 直接用UniLM做Seq2Seq，然后前缀树约束解码，并加入自研的“前瞻”策略；
